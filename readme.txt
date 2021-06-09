@@ -4,7 +4,7 @@
 
 The repo includes an `index.html` file, images are in the `images` folder, and we have one `style.css` file in the `styles` folder. We have included `valid-html.jpg`, `valid-css.jpg` and `valid-accessiblity.jpg` in the root directory.
 
-List of basic HTML content, CSS styling and advanced features we included in this project:
+### List of basic HTML content, CSS styling and advanced features we included in this project:
 
 - At least one image, with descriptive alt attribute(s)
 - Appropriate headings and paragraph text
@@ -18,8 +18,12 @@ List of basic HTML content, CSS styling and advanced features we included in thi
 - Creating a more complex page layout, such as including a sidebar or navigation bar
 - Embedded HTML5 media, like video or audio, with fallbacks
 
-List of urls of online resources consulted:
+### List of urls of online resources consulted:
+
 https://getbootstrap.com/
+
 https://fonts.google.com/icons
+
 https://fonts.google.com/
+
 https://www.w3schools.com/
